@@ -1,9 +1,7 @@
 # Hi there, I'm
-
 ```text
 ░░█ ▄▀█ █░█ █
 █▄█ █▀█ ▀▄▀ █
-
 ```
 ![Arch Linux](https://img.shields.io/badge/OS-Arch_Linux-blue?logo=archlinux&logoColor=white)
 ![Python](https://img.shields.io/badge/Code-Python-3776AB?logo=python&logoColor=white)
